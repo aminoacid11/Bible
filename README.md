@@ -21,7 +21,7 @@ bible.py is the python file that contains the gui of this bible app. <br />
 To start the web application, run:
 ### `python bible.py` or `python3 bible.py`
 
-Important functions and notes: <br />
+## Important functions and notes: <br />
 Fill out the book, chapter, and verses sections and press 'Search' button in order to obtain the requested verses. <br />
 If you want to clear out the screen, press 'Clear' button. <br />
 When you want to get all verses in one whole chapter, fill in the book and chapter informations and leave the verses part blank. <br />
