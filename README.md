@@ -10,6 +10,7 @@ For the korean bible, I used the data from: <br />
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hit4079&logNo=60139979928  <br />
 Out of these numerous datasets, I used the file where the korean bible verses were written in 66 different .txt files. <br />
 
+File informations: <br />
 new_save.py contains the code that adds all the informations in 66 different .txt files into one txt file, which gives as a result 'kor_bible_info.txt'. <br />
 write_kor_bible.py contains the code that convert the 'kor_bible_info.txt' file into 'kor_bible_csv' file and adds the unique id to each verse. <br />
 id.py contains the code that finds the unique id of the requested verse(s). <br />
