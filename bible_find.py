@@ -13,29 +13,27 @@ kor_csv = csv.reader(x.replace('\0', '') for x in kor_b)
 for k_row in kor_csv:
     kor_verses.append(k_row)
 
-msg = input("Please input the books of the bible, chapter, ':', and verse (e.g. Genesis 2:15): ").split()
+def return_verse(msg1,msg2):
+    msg1 = msg1.split()
+    book1 = msg1[0].lower()
+    chp_ver1 = msg1[1].split(':')
+    chapter_num1 = chp_ver1[0].replace(' ','')
+    verse_num1 = chp_ver1[1].replace(' ','')
+    id1 = return_id(book1,chapter_num1,verse_num1)
+    
+    msg2 = msg2.split()
+    book2 = msg2[0].lower()
+    chp_ver2 = msg2[1].split(':')
+    chapter_num2 = chp_ver2[0].replace(' ','')
+    verse_num2 = chp_ver2[1].replace(' ','')
+    id2 = return_id(book2,chapter_num2,verse_num2)
+    
+    response = ''
+    for i,v in enumerate(verses):
+        if i>0 and int(v[0])>=id1 and int(v[0])<=id2:
+            response += kor_verses[i][1] + '\n' + v[4] + '\n\n'
 
-if len(msg) == 3:
-    msg[0] = msg[0] + msg[1]
-    msg[1] = msg[2]
-    msg.pop()
-elif len(msg) == 4:
-    msg[0] = msg[0] + msg[1] + msg[2]
-    msg[1] = msg[3]
-    msg.pop()
-    msg.pop()
-
-book = msg[0].lower()
-chp_ver = msg[1].split(':')
-chapter_num = chp_ver[0].replace(' ','')
-verse_num = chp_ver[1].replace(' ','')
-
-id = return_id(book,chapter_num,verse_num)
-
-response = ''
-for i,v in enumerate(verses):
-    if i>0 and id == int(v[0]):
-        response = kor_verses[i][1] + '\n' + v[4]
-        print(response)
-if response == '':
-    print("Nothing found. Please check again the book name, chapter number, or the verse number.")
+    if response == '':
+        return "Nothing found. Please check again book name, chapter number, or verse number."
+    else:
+        return response

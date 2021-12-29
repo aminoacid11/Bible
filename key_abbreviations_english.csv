@@ -1,379 +1,523 @@
-a,b,p
-Gen,1,1
-Genesis,1,0
-Ge,1,0
-Gn,1,0
-Exo,2,1
-Exodus,2,0
-Ex,2,0
-Exod,2,0
-Lev,3,1
-Leviticus,3,0
-Le,3,0
-Lv,3,0
-Num,4,1
-Numbers,4,0
-Nu,4,0
-Nm,4,0
-Nb,4,0
-Deut,5,1
-Deuteronomy,5,0
-Dt,5,0
-Josh,6,1
-Joshua,6,0
-Jos,6,0
-Jsh,6,0
-Judg,7,1
-Judges,7,0
-Jdg,7,0
-Jg,7,0
-Jdgs,7,0
-Rth,8,1
-Ruth,8,0
-Ru,8,0
-1 Sam,9,1
-1 Sa,9,0
-1Samuel,9,0
-1S,9,0
-I Sa,9,0
-1 Sm,9,0
-1Sa,9,0
-I Sam,9,0
-1Sam,9,0
-I Samuel,9,0
-1st Samuel,9,0
-First Samuel,9,0
-2 Sam,10,1
-2 Sa,10,0
-2S,10,0
-II Sa,10,0
-2 Sm,10,0
-2Sa,10,0
-II Sam,10,0
-2Sam,10,0
-II Samuel,10,0
-2Samuel,10,0
-2nd Samuel,10,0
-Second Samuel,10,0
-1 Kgs,11,1
-1 Ki,11,0
-1K,11,0
-I Kgs,11,0
-1Kgs,11,0
-I Ki,11,0
-1Ki,11,0
-I Kings,11,0
-1Kings,11,0
-1st Kgs,11,0
-1st Kings,11,0
-First Kings,11,0
-First Kgs,11,0
-1Kin,11,0
-2 Kgs,12,1
-2 Ki,12,0
-2K,12,0
-II Kgs,12,0
-2Kgs,12,0
-II Ki,12,0
-2Ki,12,0
-II Kings,12,0
-2Kings,12,0
-2nd Kgs,12,0
-2nd Kings,12,0
-Second Kings,12,0
-Second Kgs,12,0
-2Kin,12,0
-1 Chron,13,1
-1 Ch,13,0
-I Ch,13,0
-1Ch,13,0
-1 Chr,13,0
-I Chr,13,0
-1Chr,13,0
-I Chron,13,0
-1Chron,13,0
-I Chronicles,13,0
-1Chronicles,13,0
-1st Chronicles,13,0
-First Chronicles,13,0
-2 Chron,14,1
-2 Ch,14,0
-II Ch,14,0
-2Ch,14,0
-II Chr,14,0
-2Chr,14,0
-II Chron,14,0
-2Chron,14,0
-II Chronicles,14,0
-2Chronicles,14,0
-2nd Chronicles,14,0
-Second Chronicles,14,0
-Ezra,15,1
-Ezr,15,0
-Neh,16,1
-Nehemiah,16,0
-Ne,16,0
-Esth,17,1
-Esther,17,0
-Es,17,0
-Job,18,1
-Job,18,0
-Jb,18,0
-Pslm,19,1
-Ps,19,0
-Psalms,19,0
-Psa,19,0
-Psm,19,0
-Pss,19,0
-Prov,20,1
-Proverbs,20,0
-Pr,20,0
-Prv,20,0
-Eccles,21,1
-Ecclesiastes,21,0
-Ec,21,0
-Qoh,21,0
-Qoheleth,21,0
-Song,22,1
-So,22,0
-Canticle of Canticles,22,0
-Canticles,22,0
-Song of Songs,22,0
-songofsongs,22,0
-SOS,22,0
-Isa,23,1
-Isaiah,23,0
-Is,23,0
-Jer,24,1
-Jeremiah,24,0
-Je,24,0
-Jr,24,0
-Lam,25,1
-Lamentation,25,0
-La,25,0
-Ezek,26,1
-Ezekiel,26,0
-Eze,26,0
-Ezk,26,0
-Dan,27,1
-Daniel,27,0
-Da,27,0
-Dn,27,0
-Hos,28,1
-Hosea,28,0
-Ho,28,0
-Joel,29,1
-Joe,29,0
-Jl,29,0
-Amos,30,1
-Am,30,0
-Obad,31,1
-Obadiah,31,0
-Ob,31,0
-Jnh,32,1
-Jonah,32,0
-Jon,32,0
-Micah,33,1
-Mic,33,0
-Nah,34,1
-Nahum,34,0
-Na,34,0
-Hab,35,1
-Habakkuk,35,0
-Zeph,36,1
-Zephaniah,36,0
-Zep,36,0
-Zp,36,0
-Haggai,37,1
-Hag,37,0
-Hg,37,0
-Zech,38,1
-Zechariah,38,0
-Zec,38,0
-Zc,38,0
-Mal,39,1
-Malachi,39,0
-Mal,39,0
-Ml,39,0
-Matt,40,1
-Matthew,40,0
-Mt,40,0
-Mrk,41,1
-Mark,41,0
-Mk,41,0
-Mr,41,0
-Luk,42,1
-Luke,42,0
-Lk,42,0
-John,43,1
-Jn,43,0
-Jhn,43,0
-Acts,44,1
-Ac,44,0
-Rom,45,1
-Romans,45,0
-Ro,45,0
-Rm,45,0
-1 Cor,46,1
-1 Co,46,0
-I Co,46,0
-1Co,46,0
-I Cor,46,0
-1Cor,46,0
-I Corinthians,46,0
-1Corinthians,46,0
-1st Corinthians,46,0
-First Corinthians,46,0
-2 Cor,47,1
-2 Co,47,0
-II Co,47,0
-2Co,47,0
-II Cor,47,0
-2Cor,47,0
-II Corinthians,47,0
-2Corinthians,47,0
-2nd Corinthians,47,0
-Second Corinthians,47,0
-Gal,48,1
-Galatians,48,0
-Ga,48,0
-Ephes,49,1
-Ephesians,49,0
-Eph,49,0
-Phil,50,1
-Philippians,50,0
-Php,50,0
-Col,51,1
-Colossians,51,0
-Col,51,0
-1 Thess,52,1
-1 Th,52,0
-I Th,52,0
-1Th,52,0
-I Thes,52,0
-1Thes,52,0
-I Thess,52,0
-1Thess,52,0
-I Thessalonians,52,0
-1Thessalonians,52,0
-1st Thessalonians,52,0
-First Thessalonians,52,0
-2 Thess,53,1
-2 Th,53,0
-II Th,53,0
-2Th,53,0
-II Thes,53,0
-2Thes,53,0
-II Thess,53,0
-2Thess,53,0
-II Thessalonians,53,0
-2Thessalonians,53,0
-2nd Thessalonians,53,0
-Second Thessalonians,53,0
-1 Tim,54,1
-1 Ti,54,0
-I Ti,54,0
-1Ti,54,0
-I Tim,54,0
-1Tim,54,0
-I Timothy,54,0
-1Timothy,54,0
-1st Timothy,54,0
-First Timothy,54,0
-2 Tim,55,1
-2 Ti,55,0
-II Ti,55,0
-2Ti,55,0
-II Tim,55,0
-2Tim,55,0
-II Timothy,55,0
-2Timothy,55,0
-2nd Timothy,55,0
-Second Timothy,55,0
-Titus,56,1
-Tit,56,0
-Philem,57,1
-Philemon,57,0
-Phm,57,0
-Hebrews,58,1
-Heb,58,0
-James,59,1
-Jas,59,0
-Jm,59,0
-1 Pet,60,1
-1 Pe,60,0
-I Pe,60,0
-1Pe,60,0
-I Pet,60,0
-1Pet,60,0
-I Pt,60,0
-1 Pt,60,0
-1Pt,60,0
-I Peter,60,0
-1Peter,60,0
-1st Peter,60,0
-First Peter,60,0
-2 Pet,61,1
-2 Pe,61,0
-II Pe,61,0
-2Pe,61,0
-II Pet,61,0
-2Pet,61,0
-II Pt,61,0
-2 Pt,61,0
-2Pt,61,0
-II Peter,61,0
-2Peter,61,0
-2nd Peter,61,0
-Second Peter,61,0
-1 John,62,1
-1 Jn,62,0
-I Jn,62,0
-1Jn,62,0
-I Jo,62,0
-1Jo,62,0
-I Joh,62,0
-1Joh,62,0
-I Jhn,62,0
-1 Jhn,62,0
-1Jhn,62,0
-I John,62,0
-1John,62,0
-1st John,62,0
-First John,62,0
-2 John,63,1
-2 Jn,63,0
-II Jn,63,0
-2Jn,63,0
-II Jo,63,0
-2Jo,63,0
-II Joh,63,0
-2Joh,63,0
-II Jhn,63,0
-2 Jhn,63,0
-2Jhn,63,0
-II John,63,0
-2John,63,0
-2nd John,63,0
-Second John,63,0
-3 John,64,1
-3 Jn,64,0
-III Jn,64,0
-3Jn,64,0
-III Jo,64,0
-3Jo,64,0
-III Joh,64,0
-3Joh,64,0
-III Jhn,64,0
-3 Jhn,64,0
-3Jhn,64,0
-III John,64,0
-3John,64,0
-3rd John,64,0
-Third John,64,0
-Jude,65,1
-Jud,65,0
-Rev,66,1
-Revelation,66,0
-Re,66,0
-The Revelation,66,0
+a,b,p,chp
+Gen,1,1,50
+창세기,1,0,50
+창,1,0,50
+Genesis,1,0,50
+Ge,1,0,50
+Gn,1,0,50
+Exo,2,1,40
+출,2,0,40
+Exodus,2,0,40
+출에굽기,2,0,40
+Ex,2,0,40
+Exod,2,0,40
+Lev,3,1,27
+Leviticus,3,0,27
+레,3,0,27
+레위기,3,0,27
+Le,3,0,27
+Lv,3,0,27
+Num,4,1,36
+Numbers,4,0,36
+민,4,0,36
+Nu,4,0,36
+민수기,4,0,36
+Nm,4,0,36
+Nb,4,0,36
+Deut,5,1,34
+Deuteronomy,5,0,34
+신,5,0,34
+신명기,5,0,34
+Dt,5,0,34
+Josh,6,1,24
+Joshua,6,0,24
+수,6,0,24
+Jos,6,0,24
+여호수아,6,0,24
+Jsh,6,0,24
+Judg,7,1,21
+Judges,7,0,21
+Jdg,7,0,21
+삿,7,0,21
+사사기,7,0,21
+Jg,7,0,21
+Jdgs,7,0,21
+Rth,8,1,4
+Ruth,8,0,4
+룻,8,0,4
+룻기,8,0,4
+Ru,8,0,4
+1 Sam,9,1,31
+1 Sa,9,0,31
+삼상,9,0,31
+사무엘상,9,0,31
+1Samuel,9,0,31
+사무엘 상,9,0,31
+1S,9,0,31
+I Sa,9,0,31
+1 Sm,9,0,31
+1Sa,9,0,31
+I Sam,9,0,31
+1Sam,9,0,31
+I Samuel,9,0,31
+1st Samuel,9,0,31
+First Samuel,9,0,31
+2 Sam,10,1,24
+삼하,10,0,24
+사무엘하,10,0,24
+사무엘 하,10,0,24
+2 Sa,10,0,24
+2S,10,0,24
+II Sa,10,0,24
+2 Sm,10,0,24
+2Sa,10,0,24
+II Sam,10,0,24
+2Sam,10,0,24
+II Samuel,10,0,24
+2Samuel,10,0,24
+2nd Samuel,10,0,24
+Second Samuel,10,0,24
+1 Kgs,11,1,22
+1 Ki,11,0,22
+왕상,11,0,22
+열왕기상,11,0,22
+열왕기 상,11,0,22
+1K,11,0,22
+I Kgs,11,0,22
+1Kgs,11,0,22
+I Ki,11,0,22
+1Ki,11,0,22
+I Kings,11,0,22
+1Kings,11,0,22
+1st Kgs,11,0,22
+1st Kings,11,0,22
+First Kings,11,0,22
+First Kgs,11,0,22
+1Kin,11,0,22
+2 Kgs,12,1,25
+2 Ki,12,0,25
+왕하,12,0,25
+열왕기하,12,0,25
+열왕기 하,12,0,25
+2K,12,0,25
+II Kgs,12,0,25
+2Kgs,12,0,25
+II Ki,12,0,25
+2Ki,12,0,25
+II Kings,12,0,25
+2Kings,12,0,25
+2nd Kgs,12,0,25
+2nd Kings,12,0,25
+Second Kings,12,0,25
+Second Kgs,12,0,25
+2Kin,12,0,25
+1 Chron,13,1,29
+1 Ch,13,0,29
+대상,13,0,29
+역대상,13,0,29
+역대 상,13,0,29
+I Ch,13,0,29
+1Ch,13,0,29
+1 Chr,13,0,29
+I Chr,13,0,29
+1Chr,13,0,29
+I Chron,13,0,29
+1Chron,13,0,29
+I Chronicles,13,0,29
+1Chronicles,13,0,29
+1st Chronicles,13,0,29
+First Chronicles,13,0,29
+2 Chron,14,1,36
+2 Ch,14,0,36
+대하,14,0,36
+역대하,14,0,36
+역대 하,14,0,36
+II Ch,14,0,36
+2Ch,14,0,36
+II Chr,14,0,36
+2Chr,14,0,36
+II Chron,14,0,36
+2Chron,14,0,36
+II Chronicles,14,0,36
+2Chronicles,14,0,36
+2nd Chronicles,14,0,36
+Second Chronicles,14,0,36
+Ezra,15,1,10
+Ezr,15,0,10
+스,15,0,10
+에스라,15,0,10
+Neh,16,1,13
+Nehemiah,16,0,13
+느,16,0,13
+느헤미아,16,0,13
+Ne,16,0,13
+Esth,17,1,10
+Esther,17,0,10
+에,17,0,10
+에스더,17,0,10
+Es,17,0,10
+Job,18,1,42
+Job,18,0,42
+욥,18,0,42
+욥기,18,0,42
+Jb,18,0,42
+Pslm,19,1,150
+Ps,19,0,150
+시,19,0,150
+시편,19,0,150
+Psalms,19,0,150
+Psa,19,0,150
+Psm,19,0,150
+Pss,19,0,150
+Prov,20,1,31
+Proverbs,20,0,31
+잠,20,0,31
+잠언,20,0,31
+Pr,20,0,31
+Prv,20,0,31
+Eccles,21,1,12
+Ecclesiastes,21,0,12
+전,21,0,12
+전도서,21,0,12
+Ec,21,0,12
+Qoh,21,0,12
+Qoheleth,21,0,12
+Song,22,1,8
+So,22,0,8
+아,22,0,8
+아가,22,0,8
+아가서,22,0,8
+Canticle of Canticles,22,0,8
+Canticles,22,0,8
+Song of Songs,22,0,8
+songofsongs,22,0,8
+songofsolomon,22,0,8
+Song of Solomon,22,0,8
+SOS,22,0,8
+Isa,23,1,66
+Isaiah,23,0,66
+사,23,0,66
+이사야,23,0,66
+Is,23,0,66
+Jer,24,1,52
+Jeremiah,24,0,52
+렘,24,0,52
+예레미아,24,0,52
+Je,24,0,52
+Jr,24,0,52
+Lam,25,1,5
+Lamentation,25,0,5
+애,25,0,5
+La,25,0,5
+예레미아애가,25,0,5
+Ezek,26,1,48
+Ezekiel,26,0,48
+겔,26,0,48
+에스겔,26,0,48
+Eze,26,0,48
+Ezk,26,0,48
+Dan,27,1,12
+Daniel,27,0,12
+단,27,0,12
+다니엘,27,0,12
+Da,27,0,12
+Dn,27,0,12
+Hos,28,1,14
+Hosea,28,0,14
+호,28,0,14
+호세아,28,0,14
+Ho,28,0,14
+Joel,29,1,3
+Joe,29,0,3
+욜,29,0,3
+요엘,29,0,3
+Jl,29,0,3
+Amos,30,1,9
+Am,30,0,9
+암,30,0,9
+아모스,30,0,9
+Obad,31,1,1
+Obadiah,31,0,1
+옵,31,0,1
+오바댜,31,0,1
+Ob,31,0,1
+Jnh,32,1,4
+Jonah,32,0,4
+욘,32,0,4
+요나,32,0,4
+Jon,32,0,4
+Micah,33,1,7
+Mic,33,0,7
+미,33,0,7
+미가,33,0,7
+Nah,34,1,3
+Nahum,34,0,3
+나,34,0,3
+나훔,34,0,3
+Na,34,0,3
+Hab,35,1,3
+Habakkuk,35,0,3
+합,35,0,3
+하박국,35,0,3
+Zeph,36,1,3
+Zephaniah,36,0,3
+습,36,0,3
+스바냐,36,0,3
+Zep,36,0,3
+Zp,36,0,3
+Haggai,37,1,2
+Hag,37,0,2
+학,37,0,2
+학개,37,0,2
+Hg,37,0,2
+Zech,38,1,14
+Zechariah,38,0,14
+슥,38,0,14
+스가랴,38,0,14
+Zec,38,0,14
+Zc,38,0,14
+Mal,39,1,4
+Malachi,39,0,4
+말,39,0,4
+말라기,39,0,4
+Mal,39,0,4
+Ml,39,0,4
+Matt,40,1,28
+Matthew,40,0,28
+마,40,0,28
+마태복음,40,0,28
+Mt,40,0,28
+Mrk,41,1,16
+Mark,41,0,16
+막,41,0,16
+마가복음,41,0,16
+Mk,41,0,16
+Mr,41,0,16
+Luk,42,1,24
+Luke,42,0,24
+눅,42,0,24
+누가복음,42,0,24
+Lk,42,0,24
+John,43,1,21
+Jn,43,0,21
+요,43,0,21
+요한복음,43,0,21
+Jhn,43,0,21
+Acts,44,1,28
+Ac,44,0,28
+행,44,0,28
+사도행전,44,0,28
+Rom,45,1,16
+Romans,45,0,16
+로마서,45,0,16
+롬,45,0,16
+Ro,45,0,16
+Rm,45,0,16
+1 Cor,46,1,16
+1 Co,46,0,16
+고린도전서,46,0,16
+고전,46,0,16
+I Co,46,0,16
+1Co,46,0,16
+I Cor,46,0,16
+1Cor,46,0,16
+I Corinthians,46,0,16
+1Corinthians,46,0,16
+1st Corinthians,46,0,16
+First Corinthians,46,0,16
+2 Cor,47,1,13
+2 Co,47,0,13
+고후,47,0,13
+고린도후서,47,0,13
+II Co,47,0,13
+2Co,47,0,13
+II Cor,47,0,13
+2Cor,47,0,13
+II Corinthians,47,0,13
+2Corinthians,47,0,13
+2nd Corinthians,47,0,13
+Second Corinthians,47,0,13
+Gal,48,1,6
+Galatians,48,0,6
+갈라디아서,48,0,6
+갈,48,0,6
+Ga,48,0,6
+Ephes,49,1,6
+Ephesians,49,0,6
+엡,49,0,6
+에베소서,49,0,6
+Eph,49,0,6
+Phil,50,1,4
+Philippians,50,0,4
+빌립보서,50,0,4
+빌,50,0,4
+Php,50,0,4
+Col,51,1,4
+Colossians,51,0,4
+골,51,0,4
+골로새서,51,,4
+Col,51,0,4
+1 Thess,52,1,5
+1 Th,52,0,5
+살전,52,0,5
+데살로니가전서,52,0,5
+I Th,52,0,5
+1Th,52,0,5
+I Thes,52,0,5
+1Thes,52,0,5
+I Thess,52,0,5
+1Thess,52,0,5
+I Thessalonians,52,0,5
+1Thessalonians,52,0,5
+1st Thessalonians,52,0,5
+First Thessalonians,52,0,5
+2 Thess,53,1,3
+2 Th,53,0,3
+살후,53,0,3
+데살로니가후서,53,0,3
+II Th,53,0,3
+2Th,53,0,3
+II Thes,53,0,3
+2Thes,53,0,3
+II Thess,53,0,3
+2Thess,53,0,3
+II Thessalonians,53,0,3
+2Thessalonians,53,0,3
+2nd Thessalonians,53,0,3
+Second Thessalonians,53,0,3
+1 Tim,54,1,6
+1 Ti,54,0,6
+디모데전서,54,0,6
+딤전,54,0,6
+I Ti,54,0,6
+1Ti,54,0,6
+I Tim,54,0,6
+1Tim,54,0,6
+I Timothy,54,0,6
+1Timothy,54,0,6
+1st Timothy,54,0,6
+First Timothy,54,0,6
+2 Tim,55,1,4
+2 Ti,55,0,4
+디모데후서,55,0,4
+딤후,55,0,4
+II Ti,55,0,4
+2Ti,55,0,4
+II Tim,55,0,4
+2Tim,55,0,4
+II Timothy,55,0,4
+2Timothy,55,0,4
+2nd Timothy,55,0,4
+Second Timothy,55,0,4
+Titus,56,1,3
+디도서,56,0,3
+딛,56,0,3
+Tit,56,0,3
+Philem,57,1,1
+Philemon,57,0,1
+빌레몬서,57,0,1
+몬,57,0,1
+Phm,57,0,1
+Hebrews,58,1,13
+Heb,58,0,13
+히브리서,58,0,13
+히,58,0,13
+James,59,1,5
+Jas,59,0,5
+야고보서,59,0,5
+약,59,0,5
+Jm,59,0,5
+1 Pet,60,1,5
+1 Pe,60,0,5
+베드로전서,60,0,5
+벧전,60,0,5
+I Pe,60,0,5
+1Pe,60,0,5
+I Pet,60,0,5
+1Pet,60,0,5
+I Pt,60,0,5
+1 Pt,60,0,5
+1Pt,60,0,5
+I Peter,60,0,5
+1Peter,60,0,5
+1st Peter,60,0,5
+First Peter,60,0,5
+2 Pet,61,1,3
+2 Pe,61,0,3
+베드로후서,61,0,3
+벧후,61,0,3
+II Pe,61,0,3
+2Pe,61,0,3
+II Pet,61,0,3
+2Pet,61,0,3
+II Pt,61,0,3
+2 Pt,61,0,3
+2Pt,61,0,3
+II Peter,61,0,3
+2Peter,61,0,3
+2nd Peter,61,0,3
+Second Peter,61,0,3
+1 John,62,1,5
+1 Jn,62,0,5
+요일,62,0,5
+요한일서,62,0,5
+요한1서,62,0,5
+I Jn,62,0,5
+1Jn,62,0,5
+I Jo,62,0,5
+1Jo,62,0,5
+I Joh,62,0,5
+1Joh,62,0,5
+I Jhn,62,0,5
+1 Jhn,62,0,5
+1Jhn,62,0,5
+I John,62,0,5
+1John,62,0,5
+1st John,62,0,5
+First John,62,0,5
+2 John,63,1,1
+2 Jn,63,0,1
+II Jn,63,0,1
+요한2서,63,0,1
+요한이서,63,0,1
+요이,63,0,1
+2Jn,63,0,1
+II Jo,63,0,1
+2Jo,63,0,1
+II Joh,63,0,1
+2Joh,63,0,1
+II Jhn,63,0,1
+2 Jhn,63,0,1
+2Jhn,63,0,1
+II John,63,0,1
+2John,63,0,1
+2nd John,63,0,1
+Second John,63,0,1
+3 John,64,1,1
+3 Jn,64,0,1
+요한삼서,64,0,1
+요한3서,64,0,1
+요삼,64,0,1
+III Jn,64,0,1
+3Jn,64,0,1
+III Jo,64,0,1
+3Jo,64,0,1
+III Joh,64,0,1
+3Joh,64,0,1
+III Jhn,64,0,1
+3 Jhn,64,0,1
+3Jhn,64,0,1
+III John,64,0,1
+3John,64,0,1
+3rd John,64,0,1
+Third John,64,0,1
+Jude,65,1,1
+유,65,0,1
+유다서,65,0,1
+Jud,65,0,1
+Rev,66,1,22
+Revelation,66,0,22
+요한계시록,66,0,22
+계,66,0,22
+Re,66,0,22
+The Revelation,66,0,22
