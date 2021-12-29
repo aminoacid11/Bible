@@ -107,10 +107,15 @@ entry_verse2 = Entry(root, width=9,font='Helvetica',bg='white')
 entry_verse2.place(x=325,y=240)
 
 # Verse appearing window
-result_window = Text(root, bd=0, bg='#e4d5b7', height=29, width=60, font='Arial')
+result_window = Text(root, bd=0, bg='#e4d5b7',font='Arial')
+scroll_window = Text(root, bd=0, bg='#e4d5b7')
+scroll_window.place(x=1200,y=30,height=600,width=20)
+scrollbar = Scrollbar(scroll_window)
+scrollbar.pack(side=LEFT, fill=Y)
+result_window.config(yscrollcommand=scrollbar.set)
+scrollbar.config(command=result_window.yview)
 result_window.config(state=DISABLED)
-scrollbar = Scrollbar(root, command=result_window.yview, cursor="heart")
-result_window['yscrollcommand'] = scrollbar.set
+scroll_window.config(state=DISABLED)
 result_window.place(x=530, y=30, height=600, width=670)
 
 root.mainloop()
