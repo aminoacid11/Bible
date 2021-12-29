@@ -16,6 +16,7 @@ write_kor_bible.py contains the code that convert the 'kor_bible_info.txt' file 
 id.py contains the code that finds the unique id of the requested verse(s). <br />
 bible_find.py returns the bible verse requested by the user. <br />
 bible.py is the python file that contains the gui of this bible app. <br />
+<br />
 
 To start the web application, run:
 ### `python bible.py` or `python3 bible.py`
