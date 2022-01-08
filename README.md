@@ -1,5 +1,6 @@
 # Bible App
 
+![Example image of this web application](bible_app_screenshot.png) <br />
 This is a bible application that provides bible verses to the users when requested. <br />
 It provides bible verses in two languages: English and Korean. <br />
 
@@ -25,5 +26,4 @@ To start the web application, run:
 Fill out the book, chapter, and verses sections and press 'Search' button in order to obtain the requested verses. <br />
 If you want to clear out the screen, press 'Clear' button. <br />
 When you want to get all verses in one whole chapter, fill in the book and chapter informations and leave the verses part blank. <br />
-If you want to get only one specific verse, fill in the book, chapter informations and only the first part of the verses section. <br />
-![Example image of this web application](bible_app_screenshot.png)
+If you want to get only one specific verse, fill in the book, chapter informations and only the first part of the verses section.
