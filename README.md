@@ -1,8 +1,8 @@
 # Bible App
 
-![Example image of this web application](bible_app_screenshot.png) <br />
 This is a bible application that provides bible verses to the users when requested. <br />
 It provides bible verses in two languages: English and Korean. <br />
+![Example image of this web application](bible_app_screenshot.png) <br />
 
 For the english bible, I used the open dataset from Kaggle, where the bible verses are provided in csv files. <br />
 Link of the source: https://www.kaggle.com/oswinrh/bible?select=t_asv.csv  <br />
