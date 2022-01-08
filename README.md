@@ -26,3 +26,4 @@ Fill out the book, chapter, and verses sections and press 'Search' button in ord
 If you want to clear out the screen, press 'Clear' button. <br />
 When you want to get all verses in one whole chapter, fill in the book and chapter informations and leave the verses part blank. <br />
 If you want to get only one specific verse, fill in the book, chapter informations and only the first part of the verses section. <br />
+![Example image of this web application](bible_app_screenshot.png)
